@@ -1,0 +1,93 @@
+/* Heaader */
+nav {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    width: 125px;
+    height: 50px;
+}
+.bg-dark {
+    background-color: #0568a1e3!important;
+}
+
+
+a {
+    font-size: 25px;
+}
+
+.social-icons-footer ul li {
+    display: inline-block;
+}
+
+.social-icons-footer ul li a span {
+    color: #705ecf;
+    margin: 0 0px;
+    font-size: 16px;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 0px solid rgba(0,0,0,.1);
+}
+/* body */
+.jumbotron {
+    background-image: url(../img/background.png);
+    padding: 0px;
+    margin-bottom: -1.2rem;
+    max-width: 100%;
+}
+.badan{
+ max-width: auto;
+ background-image: url(../img/background2.jpg);
+ height: 180rem;
+}
+.judul b{
+    color:#fa60d9;
+    font-size: 6em;
+
+}
+div .box .judul{
+ width: 500px;
+ height: 300px;
+ background-color: aqua;
+}
+
+.kenalan{
+    width: 100%;
+    padding-left: 35%;
+    padding-right: 3%;
+    font-family: Brush Script MT;
+    
+}
+.kenalan p{
+    color:#fa6dbf;
+    font-size: 5em;
+    text-align: left;
+}
+.kenalan2{
+    width: 100%;
+    padding-left: 3%;
+    padding-right: 35%;
+
+
+    
+}
+.kenalan2 p{
+    color:#fa6dbf;
+    font-size: 5em;
+    text-align: right;
+}
+
+
+/* footer */
+.container-fluid
+{
+    background-color: white!important;
+    padding: 0px;
+}
+.border-top {
+    border-top: 1px solid #dee2e6!important;
+}
